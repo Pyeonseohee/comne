@@ -26,7 +26,5 @@ node.js Upload Server를 이용해서 파일을 올리고, 업로드된 파일�
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55248746/207513068-f1e9d48a-d97f-4233-b824-605e38878f18.gif)
 
 
-
-설명 동영상 링크: https://www.youtube.com/watch?v=Pl9kHtNfxw4
 <br>
 데모 동영상 링크: https://youtu.be/frD9xle0rSg
